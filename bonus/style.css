@@ -66,7 +66,7 @@ img{
   clear:both;
 }
 
-@media screen and (max-width: 780px){
+@media screen and (min-width: 421px) and (max-width: 780px){
 
   h1{
     color: #ed9d64;
