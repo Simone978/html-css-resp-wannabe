@@ -67,6 +67,8 @@ img{
   clear:both;
 }
 
+/* per schermi tra i 420px e i 780px */
+
 @media screen and (min-width: 421px) and (max-width: 780px){
 
   h1{
@@ -97,9 +99,6 @@ img{
   #why .row{
     width: 80%;
   }
-
-
-
 }
 
 
